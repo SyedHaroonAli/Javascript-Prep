@@ -1,16 +1,17 @@
 # JavaScript Problem Sets
 
-Welcome to the **JavaScript Problem Sets** repository! 🎯  
+Welcome to the **JavaScript Problem Sets** repository!
 This repo is a collection of curated problems and solutions on various JavaScript topics, structured to help learners and developers strengthen their understanding of core JS concepts.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 Each folder in the repo represents a specific topic in JavaScript. Inside each folder, you'll find problems along with detailed solutions and explanations.
 
-### 🗂️ Topics Covered
+### Topics Covered
 
+- `Basics/` – Basics of Javascript.
 - `Arrays/` – Common array manipulations, methods, and patterns.
 - `Objects/` – Working with objects, nested structures, and property access.
 - `Event-loop/` – Understanding the JS runtime, call stack, microtasks & macrotasks.
@@ -24,7 +25,7 @@ Each folder in the repo represents a specific topic in JavaScript. Inside each f
 
 ---
 
-## ✅ How to Use
+## How to Use
 
 1. **Clone the repository**
 
@@ -41,35 +42,35 @@ Each folder in the repo represents a specific topic in JavaScript. Inside each f
 
 3. **Open the problems**  
    Each file contains:
-   - 📌 A problem statement  
-   - 💡 A step-by-step solution  
-   - ✅ Example outputs for validation
+   - A problem statement
+   - A step-by-step solution
+   - Example outputs for validation
 
 ---
 
-## 📚 Who Is This For?
+## Who Is This For?
 
 Whether you're:
 
-- Preparing for coding interviews  
-- Brushing up on JavaScript fundamentals  
-- Practicing real-world use cases  
+- Preparing for coding interviews
+- Brushing up on JavaScript fundamentals
+- Practicing real-world use cases
 
 This repo is a great place to deepen your JS skills.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!  
 Feel free to:
 
-- Add new topics or problems  
-- Improve existing solutions or explanations  
-- Fix typos or formatting  
+- Add new topics or problems
+- Improve existing solutions or explanations
+- Fix typos or formatting
 
 Just fork the repo, make your changes, and open a pull request 🚀
 
 ---
 
-Happy coding! 💻✨
+Happy coding!
