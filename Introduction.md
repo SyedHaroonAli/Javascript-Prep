@@ -598,3 +598,24 @@ const msg = `Hello ${name}`
 10. Prefer readable code over clever code
 11. Avoid unnecessary mutations
 12. Learn problem-solving patterns deeply
+
+> ## Final Note
+>
+> This document is only a primer/introduction to JavaScript and problem solving.
+> Do not memorize snippets blindly — focus on understanding:
+>
+> - how JavaScript works internally
+> - execution flow
+> - closures
+> - async behavior
+> - memory management
+> - data structures
+> - problem solving patterns
+> - time and space complexity
+>
+> For deeper understanding, always refer to:
+>
+> - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript?utm_source=chatgpt.com)
+> - [JavaScript Mastery](https://javascript.info)
+>
+> The goal is not just to write code, but to understand _why_ the code works.

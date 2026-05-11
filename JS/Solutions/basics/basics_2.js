@@ -65,7 +65,9 @@ const removeDuplicates = (arrayWithDups) => {
 
 // Problem 4
 const charFrequency = (inputString) => {
-  // Map Based Solution - TC: O(n), SC: O(k)
+  // Map Based Solution -
+  // TC: O(n), SC: O(k)
+
   // const charMap = new Map()
   // for (const char of inputString) {
   //   charMap.set(char, (charMap.get(char) || 0) + 1)
@@ -74,6 +76,7 @@ const charFrequency = (inputString) => {
 
   // Object Based Solution
   // TC: O(n), SC: O(k)
+
   const charMap = {}
   for (const char of inputString) {
     if (charMap[char]) {
