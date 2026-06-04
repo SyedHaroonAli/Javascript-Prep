@@ -150,6 +150,19 @@ REVOKE
 ```
 
 ---
+## TCL (Transaction Control Language)
+
+Used for permissions.
+
+Commands:
+
+```sql
+COMMIT
+ROLLBACK
+SAVEPOINT
+```
+
+---
 
 # Creating a Database
 
